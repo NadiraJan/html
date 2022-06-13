@@ -1,0 +1,30 @@
+body{
+    background-color:blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.afbeelding {
+    width: 150px;
+}
+
+.container {
+    background-color: blueviolet;
+}
+
+h1{
+    font-size: 35px;
+}
+.alinea {
+    background-color:aquamarine ;
+    border: 5em;
+}
+
+.button{
+    background-color: chartreuse;
+    cursor: pointer;
+    
+}
+
+
+
